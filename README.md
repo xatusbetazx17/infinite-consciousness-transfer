@@ -51,7 +51,7 @@ infinite-consciousness-transfer/
 2. **Install**:
 
    ```bash
-   git clone https://github.com/your-org/infinite-consciousness-transfer.git
+   git clone https://github.com/xatusbetazx17/infinite-consciousness-transfer.git
    cd infinite-consciousness-transfer
    pip install -r requirements.txt
    ```

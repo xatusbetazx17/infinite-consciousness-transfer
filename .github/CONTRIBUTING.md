@@ -8,12 +8,22 @@ Please read and adhere to our [Code of Conduct](CODE_OF_CONDUCT.md) before contr
 
 ## 2. Getting Started
 
-1. Fork the repository on GitHub: `github.com/xatatusbetazx17/infinite-consciousness-transfer`
+1. Fork the repository on GitHub:
+
+   ```
+   https://github.com/xatusbetazx17/infinite-consciousness-transfer.git
+   ```
 2. Clone your fork locally:
 
    ```bash
-   git clone https://github.com/xatatusbetazx17/infinite-consciousness-transfer.git
+   git clone https://github.com/xatusbetazx17/infinite-consciousness-transfer.git
    cd infinite-consciousness-transfer
+   ```
+
+   git clone [https://github.com/xatatusbetazx17/infinite-consciousness-transfer.git](https://github.com/xatatusbetazx17/infinite-consciousness-transfer.git)
+   cd infinite-consciousness-transfer
+
+   ```
    ```
 3. Create a new branch for your work:
 

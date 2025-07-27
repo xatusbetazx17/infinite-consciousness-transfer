@@ -12,7 +12,7 @@ infinite-consciousness-transfer/
 ├── docs/
 │   ├── design_overview.md  # High-level architecture and flow
 │   ├── emulation_models.md # Detailed transfer & emulation models
-│   ├── physics_axioms.md    # Core principles for programmable reality
+│   ├── physics_axioms.md   # Core principles for programmable reality
 │   ├── ethics_guidelines.md# Ethical boundaries & eternal scalability
 │   └── module_reference.md # Summary of each module’s API
 ├── src/
@@ -42,7 +42,9 @@ infinite-consciousness-transfer/
 │   └── gui.py              # 3D visualization (Blender/WebGL)
 ├── data/
 │   └── example_scan/       # Sample brain scan files (NIfTI, raw)
+│       └── README.md       # Details about example scans and usage
 └── LICENSE.md              # MIT License
+
 ```
 
 ## Getting Started
